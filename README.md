@@ -1,1 +1,1 @@
-# Converting-Grayscale-Images-to-Colour-I
+# Converting-Grayscale-Images-to-Colour
